@@ -1,3 +1,5 @@
+# JM
+
 import sys
 import numpy as np
 
@@ -5,11 +7,14 @@ if __name__ == "__main__":
     print('main')
     print(len(sys.argv))
 
-    if len(sys.argv) != 2:
+    if len(sys.argv) != 3:
         print('Fatal: wrong number of args')
         quit()
 
-    print('OK')
+    print('[OK] -> Arg count')
+
     fname = sys.argv[1]
 
-    print('Filename: {}'.format(fname))
+    DRAGC = sys.argv[2]
+    
+    print('Filename: {}, Drag C: {}'.format(fname, DRAGC))
