@@ -2,6 +2,7 @@
 
 import sys
 import numpy as np
+import fileReader as fr
 
 if __name__ == "__main__":
     print('main')
