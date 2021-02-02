@@ -1,1 +1,4 @@
 rock/__pycache__/
+*.pyc
+tests/*.pyc
+rock_app/*.pyc
