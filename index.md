@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Rock
 
-You can use the [editor on GitHub](https://github.com/jamose0/rock/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Rock will be a model rocket flight simulator.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, this page only contains the rest of the template and this...
 
 ### Markdown
 
